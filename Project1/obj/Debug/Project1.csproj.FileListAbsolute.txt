@@ -1,0 +1,14 @@
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.Forget.resources
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.Sign_Up.resources
+C:\Users\Sdaemon\Desktop\Windows Application\Project1\Project1\obj\Debug\Project1.welcome.resources
